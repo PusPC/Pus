@@ -1,7 +1,7 @@
 <h1>PusPC - Your Computer Speedup Tool</h1>
 
-[![GitHub license](https://github.com/PusPC/Pus/assets/136448868/4c514a55-19ca-4ca1-9c9b-f3a24610558e)
-(https:![icon]//img.shields.io/badge/license-MIT-blue.svg)](https://github.com/PusPC/Pus/blob/master/LICENSE)
+(https://github.com/PusPC/Pus/assets/136448868/4c514a55-19ca-4ca1-9c9b-f3a24610558e)
+[![GitHub license](https:![icon]//img.shields.io/badge/license-MIT-blue.svg)](https://github.com/PusPC/Pus/blob/master/LICENSE)
 [![Static Badge](https://img.shields.io/badge/contributors-1-green)](https://github.com/PusPC)
 
 <p>PusPC is a lightweight computer speedup tool written in BATCH, designed to optimize your system performance easily. This project is the result of a solo effort to create a user-friendly solution for enhancing computer speed and responsiveness.</p>
