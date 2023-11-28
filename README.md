@@ -1,6 +1,5 @@
 <h1>PusPC - Your Computer Speedup Tool</h1>
 
-(https://github.com/PusPC/Pus/assets/136448868/4c514a55-19ca-4ca1-9c9b-f3a24610558e)
 [![GitHub license](https:![icon]//img.shields.io/badge/license-MIT-blue.svg)](https://github.com/PusPC/Pus/blob/master/LICENSE)
 [![Static Badge](https://img.shields.io/badge/contributors-1-green)](https://github.com/PusPC)
 
