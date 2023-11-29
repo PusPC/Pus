@@ -30,7 +30,7 @@
 <h2>Contributing</h2>
 
 <p>If you want to contribute to PusPC, feel free to open an issue, submit a pull request, or provide feedback. Your input is highly valued!</p>
-<p>Other information: <a href="https://github.com/PusPC/Pus/CONTRIBUTING.md"</a>CONTRIBUTION INFOS AND GUIDELINES</p>
+<p>Other information: <a href="https://github.com/PusPC/Pus/blob/main/CONTRIBUTING.md"</a>CONTRIBUTION INFOS AND GUIDELINES</p>
 
 <h2>License</h2>
 
