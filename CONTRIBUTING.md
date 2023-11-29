@@ -1,6 +1,6 @@
-# Contributing to [Pus]
+# Contributing to Pus
 
-Thank you for your interest in contributing to [Pus]! We appreciate your help in making this project better.
+Thank you for your interest in contributing to Pus! We appreciate your help in making this project better.
 
 Before you get started, please take a moment to review the following guidelines.
 
