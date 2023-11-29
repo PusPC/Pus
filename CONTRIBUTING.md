@@ -40,7 +40,7 @@ We welcome your pull requests! Before submitting a pull request, please ensure t
 If you want to editthe program, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/PusPC/Pus.git`
-2. Right click the file and choose: `edit`
+2. Right click the file you want to edit and choose: `edit`
 3. You are now ready to edit the program.
 
 ## License
