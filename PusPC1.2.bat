@@ -211,7 +211,7 @@ powershell "Get-AppxPackage -Name *MicrosoftEdge* | Remove-AppxPackage"
 cls
 echo Removing Registry entries . . . . .
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MicrosoftEdgeElevationService" /v Start /t REG_DWORD /d 4 /f > nul
-red delete "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Edge" /f > nul
+reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Edge" /f > nul
 :3548ezhrjg1241251
 REM ; Some pre-hardening
 reg add "HKLM\SOFTWARE\Policies\Google\Chrome" /v ChromeCleanupEnabled /t REG_SZ /d 0 /f > nul
