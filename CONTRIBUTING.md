@@ -37,7 +37,7 @@ We welcome your pull requests! Before submitting a pull request, please ensure t
 
 ## Development Setup
 
-If you want to editthe program, follow these steps:
+If you want to edit the program, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/PusPC/Pus.git`
 2. Right click the file you want to edit and choose: `edit`
