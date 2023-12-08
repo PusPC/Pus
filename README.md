@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/PusPC/Pus/blob/master/LICENSE) 
 [![Static Badge](https://img.shields.io/badge/contributors-1-green)](https://github.com/PusPC)
 
-[Feautures](https://github.com/PusPC/Pus/tree/main#features) ![TeStAnD](https://github.com/PusPC/Pus/blob/main/.github/200wPUS_25_1_50.webp) [Usages](https://github.com/PusPC/Pus/tree/main#usage) ![TeStAnD](https://github.com/PusPC/Pus/blob/main/.github/200wPUS_25_1_50.webp) [Contributing](https://github.com/PusPC/Pus/tree/main#contributing) ![TeStAnD](https://github.com/PusPC/Pus/blob/main/.github/200wPUS_25_1_50.webp) [License](https://github.com/PusPC/Pus/tree/main#license)
+[Feautures](https://github.com/PusPC/Pus/tree/main#features) ![TeStAnD](https://github.com/PusPC/Pus/blob/main/.github/200wPUS_25_1_50.webp) [Usages](https://github.com/PusPC/Pus/tree/main#usage) ![TeStAnD](https://github.com/PusPC/Pus/blob/main/.github/200wPUS_25_1_50.webp) [Contributing](https://github.com/PusPC/Pus/tree/main#contributing) ![TeStAnD](https://github.com/PusPC/Pus/blob/main/.github/200wPUS_25_1_50.webp) [License](https://github.com/PusPC/Pus/tree/main#license) ![TeStAnD](https://github.com/PusPC/Pus/blob/main/.github/200wPUS_25_1_50.webp) [Acknowledgments](https://github.com/PusPC/Pus/tree/main#acknowledgments) ![TeStAnD](https://github.com/PusPC/Pus/blob/main/.github/200wPUS_25_1_50.webp) [Support](https://github.com/PusPC/Pus/tree/main#support) ![TeStAnD](https://github.com/PusPC/Pus/blob/main/.github/200wPUS_25_1_50.webp) [Contact](https://github.com/PusPC/Pus/tree/main#connect-with-me)
 
 ![imageapp](https://github.com/PusPC/Pus/assets/136448868/f062d0ee-1c28-4af5-8cda-a2a03cf37be2)
 
