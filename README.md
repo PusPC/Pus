@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/PusPC/Pus/blob/master/LICENSE) 
 [![Static Badge](https://img.shields.io/badge/contributors-1-green)](https://github.com/PusPC)
 
-[![TeStAnD](https://github.com/PusPC/Pus/blob/main/.github/200wPUS_25_1_50.webp)]
+[![TeStAnD](https://github.com/PusPC/Pus/blob/main/.github/200wPUS_25_1_50.webp)
 
 ![imageapp](https://github.com/PusPC/Pus/assets/136448868/f062d0ee-1c28-4af5-8cda-a2a03cf37be2)
 
