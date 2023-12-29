@@ -12,6 +12,9 @@
 <p>PusPC is a lightweight computer speedup tool written in BATCH, designed to optimize your system performance easily. This project is the result of a solo effort to create a user-friendly solution for enhancing computer speed and responsiveness.</p>
 <p>It was made in Hungary</p>
 
+<p>Internet Archive</p>(https://archive.org/details/PusPC)
+<p>Sourceforge</p>(https://sourceforge.net/projects/pus)
+
 <h2>Features</h2>
 
 <ul>
